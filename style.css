@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: lightgray;
+    font-family: "poppins", sans-serif;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    margin: 0 ;
+}
+/* }
+.result{
+    border: 1px solid orangered;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    width: 300px;
+}
+#dog-btn{
+    background-color: #192a56;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px;
+    width: 300px;
+}
+button:active {
+    transform: scale(.97);
+}
+button:focus{
+    outline: none;
+} */
+
+image {
+    width: 100px;
+    height: 100px;
+}
+#main{
+    height: 10vmax;
+    width: 20vmax;
+    
+}
+    
